@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Home
 ---
 
 >だれが山でらっぱ吹く、
