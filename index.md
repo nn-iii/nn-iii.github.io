@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 
 >だれが山でらっぱ吹く、
