@@ -18,5 +18,8 @@ title: Home
     </li>
   {% endfor %}
 </ul>
+{% capture footer_content %}
+  {% include footer.md %}
+{% endcapture %}
+  {{ footer_content | markdownify }}
 
-    {% include footer.md %}
