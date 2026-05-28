@@ -1,4 +1,3 @@
-![](/images/nogi.png){: width="60"}{: style}
-![](/images/Pleiades.JPG){: width="80"}
-{: style="clear:both;"}
+![](/images/nogi.png){: width="80"}![](/images/zaoh.JPEG){: width="60"}![](/images/Pleiades.JPG){: width="100"}
+
 [Bamboo CSS](https://rilwis.github.io/bamboo/) 
