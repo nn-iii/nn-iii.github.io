@@ -2,6 +2,7 @@
 <div markdown="1"
   style="display: flex;
   gap: .5rem;
+  height: 50px;
   justify-content: space-around;
 ">
 
