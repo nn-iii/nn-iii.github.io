@@ -1,7 +1,9 @@
 <br>
-<div style="display: flex;
-    gap: .5rem;
-  justify-content: space-around;">
+<div markdown="1"
+  style="display: flex;
+  gap: .5rem;
+  justify-content: space-around;
+">
 
 ![](/images/Nogi.JPG){: style="object-fit: cover;"}
 ![](/images/zaoh.JPEG){: style="object-fit: cover;"}
