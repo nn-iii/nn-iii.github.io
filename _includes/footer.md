@@ -1,3 +1,5 @@
-![](/images/nogi.png){: width="60"}![](/images/zaoh.JPEG){: width="50"}　![](/images/Pleiades.JPG){: width="100"} 👽
+<br>
+
+![](/images/Nogi.JPEG){: height="50"}![](/images/zaoh.JPEG){: height="50"}　![](/images/Pleiades.JPG){: height="50"}
 
 [Bamboo CSS](https://rilwis.github.io/bamboo/) 
