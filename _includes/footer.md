@@ -1,6 +1,8 @@
 <br>
 
-![](/images/Nogi.JPG){: style="height:50px;object-fit: cover;"} ![](/images/zaoh.JPEG){: style="height:50px;object-fit: cover;"}　![](/images/Pleiades.JPG){: style="height:50px;object-fit: cover;"}
+![](/images/Nogi.JPG){: style="height:100px;}
+![](/images/zaoh.JPEG){: style="height:100px;}
+![](/images/Pleiades.JPG){: style="height:100px;}
 
 
 
