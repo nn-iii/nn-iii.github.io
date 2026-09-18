@@ -1,7 +1,3 @@
 <br>
 
-
-
-
-
-[Bamboo CSS](https://rilwis.github.io/bamboo/){: target="_blank"}{: rel="noopener noreferrer"}
+[sanitize.css](https://csstools.github.io/sanitize.css/){: target="_blank"}{: rel="noopener noreferrer"}
