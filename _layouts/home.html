@@ -6,16 +6,15 @@ title: Home
 <header>
     <img src="/images/logo.JPG" style="width:500px;" width="800" height="198">
     <p>
-      {{ site.description }}<br><br>
        <img src="/images/topimg.jpeg"  width="800" height="513">
+       {{ site.description }}
     </p>
-
 </header>
 
         {{ content }}
         
   {% for post in site.posts %}
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.title }}</a><br>
   {% endfor %}
 
 {% capture footer_content %}
