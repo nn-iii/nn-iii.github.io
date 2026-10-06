@@ -23,16 +23,12 @@
       max-width:100%;
       height:auto;
       max-height:90vh;
-      border-radius: 3px;
-      display: block;
-      object-fit: contain;
-      object-position: center;
     }
     a{
       color: teal;
-    }
-    a[rel*="noopener"]::after{
-      content: "↗︎";
+        &[rel*="noopener"]::after{
+          content: "↗︎";
+        }
     }
     b, strong{
       color: red;
