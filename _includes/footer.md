@@ -1,9 +1,7 @@
 
 ---
 
-[sanitize.css](https://csstools.github.io/sanitize.css/){: rel="noopener noreferrer"}
-[たねをまく](https://tanemaki.iwanami.co.jp){: rel="noopener noreferrer"}
-[インキュナブラ](https://www.ndl.go.jp/incunabula/index.html){: rel="noopener noreferrer"}
+[sanitize.css](https://csstools.github.io/sanitize.css/){: rel="noopener noreferrer"} [たねをまく](https://tanemaki.iwanami.co.jp){: rel="noopener noreferrer"} [インキュナブラ](https://www.ndl.go.jp/incunabula/index.html){: rel="noopener noreferrer"}
 
 x @html__body
 threads @satsukihatsu31
