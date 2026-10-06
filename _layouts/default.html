@@ -30,10 +30,14 @@
     a[rel*="noopener"]::after{
       content: "↗︎";
     }
-    b, strong, pre, code{
+    b, strong, pre, code,lbs{
       color: firebrick;
       //-webkit-text-stroke: 1px #000000;
       //paint-order: stroke fill;
+    }
+    pre,code,kbd{
+      white-space: pre-wrap;
+      font-weight:300;
     }
     h1,h2,h3{
       text-wrap: balance;
