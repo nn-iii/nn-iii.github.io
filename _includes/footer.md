@@ -6,3 +6,4 @@ x @html___body
 threads @satsukihatsu31
 
 ![](/images/topimg.jpeg)
+I've been waiting for you to ascend the throne.
