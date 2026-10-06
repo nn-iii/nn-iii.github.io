@@ -30,14 +30,15 @@
     a[rel*="noopener"]::after{
       content: "↗︎";
     }
-    b, strong, pre, code,kbd{
-      color: magenta;
+    b, strong{
+      color: red;
       //-webkit-text-stroke: 1px #000000;
       //paint-order: stroke fill;
     }
     pre,code,kbd{
       white-space: pre-wrap;
       font-weight:300;
+      color: gray;
     }
     h1,h2,h3{
       text-wrap: balance;
@@ -48,6 +49,7 @@
       margin: 1rem 0;
       &::after{
         content:"＊＊＊";
+        color: gray;
       }
     }
   </style>
