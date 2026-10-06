@@ -6,7 +6,7 @@ title: Home
 {% capture header_content %}
   {% include header.md %}
 {% endcapture %}
-  {{ header_content | markdownify }}
+{{ header_content | markdownify }}
 
         {{ content }}
         
@@ -17,5 +17,5 @@ title: Home
 {% capture footer_content %}
   {% include footer.md %}
 {% endcapture %}
-  {{ footer_content | markdownify }}
+{{ footer_content | markdownify }}
 
