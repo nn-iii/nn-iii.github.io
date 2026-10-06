@@ -13,7 +13,7 @@
     <style>
     body{
       margin: 3rem 1.5rem;
-      font-weight: 600;
+      font-weight: 500;
       font-style: normal;
       font-family: "Klee One", serif;
       font-size: 1.05rem;
@@ -26,6 +26,10 @@
       }
     a[rel*="noopener"]::after{
       content: "↗︎";
+    }
+    b, strong{
+      -webkit-text-stroke: 1px #000000;
+      paint-order: stroke fill;
     }
     h1,h2,h3{
       text-wrap: balance;
