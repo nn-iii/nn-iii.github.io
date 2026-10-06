@@ -9,4 +9,4 @@ I've been waiting for you to ascend the throne.
 
 ![](/images/topimg.jpeg)
 
-[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/nn-iii/nn-iii.github.io/actions/workflows/jekyll-gh-pages.yml/badge.svg?branch=main)](https://github.com/nn-iii/nn-iii.github.io/actions/workflows/jekyll-gh-pages.yml)
+[![Deploy Jekyll](https://github.com/nn-iii/nn-iii.github.io/actions/workflows/jekyll-gh-pages.yml/badge.svg?branch=main)](https://github.com/nn-iii/nn-iii.github.io/actions/workflows/jekyll-gh-pages.yml)
