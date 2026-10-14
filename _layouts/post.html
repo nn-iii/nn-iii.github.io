@@ -3,12 +3,11 @@ layout: default
 ---
 
 
+<p>
+    {{ page.date | date: "%Y-%m-%d" }}
+</p>
 <h2>
     {{ page.title }}
 </h2>
 
 {{ content }}
-
-<p>
-    {{ page.date | date: "%Y-%m-%d" }}
-    </p>
