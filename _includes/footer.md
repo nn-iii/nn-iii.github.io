@@ -9,4 +9,6 @@
 I've been waiting for you to ascend the throne.
 
 ![](/images/topimg.jpeg)
-[廃墟](https://himorogi.github.io)|x @html__body|threads @satsukihatsu31
+
+[廃墟](https://himorogi.github.io) x@html__body threads@satsukihatsu31
+{: style="font-size:80%;}
