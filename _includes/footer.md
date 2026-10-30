@@ -1,5 +1,8 @@
 
+[🕒](/page/1/)
+
 ---
+
 {:exlink: rel="noopener noreferrer" target="_blank"}
 
 [たねをまく](https://tanemaki.iwanami.co.jp){: exlink}
