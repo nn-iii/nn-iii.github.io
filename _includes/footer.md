@@ -1,5 +1,6 @@
 
-[🕒](/page/1/)
+[🕒](/page/1.html)
+{: stye="text-decoration:none;"}
 
 ---
 
